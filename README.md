@@ -5,11 +5,10 @@ This repository covers two things: a clean Heapsort implementation benchmarked a
 
 Repository Structure
 
-.
-├── heapsort.py        # Heapsort + Quicksort + Merge Sort with benchmarking
-├── priority_queue.py  # Priority queue, Task class, and scheduler simulation
-├── report.docx        # Full write-up: analysis, benchmarks, and design discussion
-└── README.md          # This file
+heapsort.py        # Heapsort + Quicksort + Merge Sort with benchmarking
+priority_queue.py  # Priority queue, Task class, and scheduler simulation
+report.docx        # Full write-up: analysis, benchmarks, and design discussion
+README.md          # This file
 
 Requirements
 
